@@ -1,2 +1,2 @@
 # TFLite MobilenetSSD
-This is python program to test tflite based mobilenetSSD model. 
+This is a python program for object detection with a tflite based mobilenetSSD model. 
